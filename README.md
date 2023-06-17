@@ -3,6 +3,7 @@
 #### C#
 - Conway's Game of Life
 - Sudoku w/ GTK
+- Connect 4
 
 #### Haskell
 - Minesweeper
